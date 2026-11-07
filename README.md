@@ -1,8 +1,3 @@
 # mini-erp
 
-AI-powered mini ERP built with Python and FastAPI (inventory, orders, customers)
-
-
-
-Bu proje, Yapay Zeka ile Yazılım Geliştirme dersi dönem projesi kapsamında geliştirilen bir mini ERP uygulamasıdır.
-
+A team project built with Python and FastAPI: an AI-assisted mini ERP covering inventory, orders and customers.
