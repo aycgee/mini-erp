@@ -18,3 +18,7 @@ A team project built with Python and FastAPI: an AI-assisted mini ERP covering i
    uvicorn app.main:app --reload
 
 5. Tarayıcıda http://127.0.0.1:8000 adresini aç. API dokümantasyonu için /docs adresine git.
+
+## Ekip
+
+- Aycan Genç (@aycgee)
